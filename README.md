@@ -10,6 +10,16 @@ Basics of algorithm analysis: time complexity, space complexity, Big O notation.
      Operations, implementation details, advantages, and disadvantages.
 - Stacks and queues:
     Implementations using arrays and linked lists, applications.
+## Stacks and Queues
+- Stacks:
+Definition and basic operations: push, pop, peek.
+Implementation using arrays and linked lists.
+Applications: function call stack, expression evaluation, undo mechanisms.
+- Queues:
+Definition and basic operations: enqueue, dequeue, peek.
+Implementation using arrays and linked lists.
+Types: circular queue, priority queue.
+Applications: scheduling, BFS traversal, job processing.
 ## Sorting and Searching Algorithms
 - Sorting algorithms:
 Bubble sort, selection sort, insertion sort.
